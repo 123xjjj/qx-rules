@@ -1,2 +1,119 @@
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/WeChat/WeChat.list
+# ===== 阿里系 =====
+# 淘宝 / 千问 / 阿里云盘 / 淘票票
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Alibaba/Alibaba.list
+
+# 闲鱼
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/XianYu/XianYu.list
+
+# 支付宝
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AliPay/AliPay.list
+
+# 菜鸟
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CaiNiao/CaiNiao.list
+
+# 淘宝闪购（你写的“淘宝山沟”我先按淘宝闪购理解）/ 饿了么相关
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Eleme/Eleme.list
+
+
+# ===== 电商 / 本地生活 =====
+# 拼多多
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Pinduoduo/Pinduoduo.list
+
+# 京东
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/JingDong/JingDong.list
+
+# 美团 + 大众点评
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/MeiTuan/MeiTuan.list
+
+# 转转
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ZhuanZhuan/ZhuanZhuan.list
+
+
+# ===== 腾讯系 =====
+# QQ / QQ邮箱 / 腾讯相关基础域名
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Tencent/Tencent.list
+
+# 微信
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list
+
+
+# ===== 字节系 =====
+# 豆包 / 字节跳动相关
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ByteDance/ByteDance.list
+
+# 抖音
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/DouYin/DouYin.list
+
+
+# ===== 社交 / 内容 =====
+# 知乎
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Zhihu/Zhihu.list
+
+# 微博
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Weibo/Weibo.list
+
+# 哔哩哔哩
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BiliBili/BiliBili.list
+
+# 小红书
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/XiaoHongShu/XiaoHongShu.list
+
+# 快手
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/KuaiShou/KuaiShou.list
+
+
+# ===== 地图 / 出行 =====
+# 高德地图
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GaoDe/GaoDe.list
+
+# 滴滴
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/DiDi/DiDi.list
+
+# 铁路12306
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/12306/12306.list
+
+# 同程系（可辅助覆盖智行火车票相关）
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TongCheng/TongCheng.list
+
+
+# ===== 银行 =====
+# 中国银行
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BOC/BOC.list
+
+# 中国建设银行
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CCB/CCB.list
+
+# 招商银行 + 掌上生活相关
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CMB/CMB.list
+
+
+# ===== 运营商 =====
+# 中国移动
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMobile/ChinaMobile.list
+
+# 中国联通
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaUnicom/ChinaUnicom.list
+
+
+# ===== 百度 =====
+# 百度网盘
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Cloud/BaiduCloud/BaiduCloud.list
+
+
+# ===== 政务 =====
+# 国家网络身份认证 / 交管12123 / 个人所得税等政府域名兜底
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GovCN/GovCN.list
+
+
+# ===== 视频 / 音频 =====
+# 优酷
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Youku/Youku.list
+
+# 喜马拉雅
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Himalaya/Himalaya.list
+
+
+# ===== 网易 =====
+# 网易邮箱大师及网易基础服务
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEase/NetEase.list
 
